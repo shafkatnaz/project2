@@ -1,0 +1,59 @@
+
+h1 {
+    color: aqua;
+    
+}
+
+
+.number {
+    border: 2px solid black;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 30px;
+    
+}
+
+.incr {
+    background-color: grey;
+}
+.incr:hover {
+    background-color: goldenrod;
+}
+
+.decr {
+    background-color: grey;
+}
+.decr:hover {
+    background-color: goldenrod;
+}
+
+#screen {
+    border: 2px solid black;
+    width: 100px;
+    height: 50px;
+}
+
+#buttons {
+    button {width: 20px};
+    button {height: 20px};
+}
+
+.icon {
+    margin-left: 85px;
+}
+
+.container {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    border: 2px solid rgb(243, 33, 13);
+}
+.button {
+    width: 100px;
+    height: 20px;
+    background-color: green;
+    /* border: 2px solid green; */
+    margin-top: 5px;
+}
